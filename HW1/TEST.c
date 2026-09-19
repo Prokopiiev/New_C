@@ -27,7 +27,7 @@
 
 int main(void) {
     printf("Hello world!\n");
-    system("pause");   // только для Windows, для учебных примеров
+    system("pause");   
     return 0;
 }
 
